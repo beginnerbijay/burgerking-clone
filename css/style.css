@@ -334,6 +334,7 @@ footer i{
    }
     
    #sub input {
+    width: 75%;
     padding: 10px;
     border-radius: 25px;
     right: 0%;
@@ -346,4 +347,8 @@ footer i{
        border-radius: 25px;
        margin: 20px;
    }
+   footer i{
+    font-size: 2rem;
+    padding: 0 5px ;
+}
   }
